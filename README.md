@@ -11,7 +11,7 @@ Criação de uma API de catálogo de jogos (CRUD).
 * DTO; 
 * Entity.
 
-### Suas funcionalidades:
+### Responsabilidades dos artefatos:
 * Services - Responsável por toda lógica de negócio;
 * Repository- Responsável pelo acesso ao banco de dados;
 * Injeção de dependência;
