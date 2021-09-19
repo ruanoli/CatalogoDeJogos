@@ -14,7 +14,6 @@ Criação de uma API de catálogo de jogos (CRUD).
 ### Responsabilidades dos artefatos:
 * Services - Responsável por toda lógica de negócio;
 * Repository- Responsável pelo acesso ao banco de dados;
-* Injeção de dependência;
 * Controllers - Recebe requests e produz responses ;
 * Middleware- Componentes que tratam o request e esponse;;
 * DTO - Representa o tráfego de dados, que comumente é o Json do request e response; 
